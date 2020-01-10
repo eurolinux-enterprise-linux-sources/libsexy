@@ -1,0 +1,7 @@
+#include <libsexy/sexy.h>
+
+sexy_icon_entry_get_type
+sexy_spell_entry_get_type
+sexy_tooltip_get_type
+sexy_tree_view_get_type
+sexy_url_label_get_type
